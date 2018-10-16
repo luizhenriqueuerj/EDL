@@ -75,7 +75,7 @@ public class Cubo{
     double comprimento;
     double altura;
     double largura;
-    public Funcionario(double comprimento, double altura, double largura){
+    public cubo(double comprimento, double altura, double largura){
         this.comprimento = comprimento;
         this.altura = altura;
         this.largura = largura;
